@@ -30,6 +30,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'pry-rails'
 gem 'omniauth'
 gem 'omniauth-auth0'
+gem 'annotate'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
