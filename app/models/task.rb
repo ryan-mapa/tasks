@@ -13,6 +13,6 @@
 #
 
 class Task < ApplicationRecord
-  validates :author_id, presence: true
+  validates :author_id, :content, presence: true
 
 end
